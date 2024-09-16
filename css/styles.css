@@ -1,4 +1,6 @@
 /* Styles */
-.alto{
-    height: 100vh;
+@media (min-width:768px) {
+    .alto{
+        height: 100vh;
+    }
 }
